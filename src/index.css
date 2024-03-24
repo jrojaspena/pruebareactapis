@@ -1,0 +1,8 @@
+html, body, #root, #root>div {
+  height: 100%
+}
+
+body {
+  background-image: linear-gradient(to right, rgba(68, 255, 0, 0) , yellow);
+  margin-top: 20px;
+}
